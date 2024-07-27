@@ -1,0 +1,41 @@
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\appsettings.json
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\DevOps Powershell.exe
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\DevOps Powershell.deps.json
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\DevOps Powershell.runtimeconfig.json
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\DevOps Powershell.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\DevOps Powershell.pdb
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.csproj.AssemblyReference.cache
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.AssemblyInfoInputs.cache
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.AssemblyInfo.cs
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.csproj.CoreCompileInputs.cache
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\staticwebassets\msbuild.DevOps Powershell.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\staticwebassets\msbuild.build.DevOps Powershell.props
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DevOps Powershell.props
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DevOps Powershell.props
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\scopedcss\bundle\DevOps Powershell.styles.css
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps P.3B6AE6C3.Up2Date
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\refint\DevOps Powershell.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.pdb
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\DevOps Powershell.genruntimeconfig.cache
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\obj\Debug\net8.0\ref\DevOps Powershell.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\EPPlus.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\bhavessi\source\repos\DevOps Powershell\DevOps Powershell\bin\Debug\net8.0\Newtonsoft.Json.dll

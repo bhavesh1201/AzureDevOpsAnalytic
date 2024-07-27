@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\devops powershell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\devops powershell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\interfaces\\getprojectinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\interfaces\\getprojectinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\interfaces\\saveprojectexcelinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\interfaces\\saveprojectexcelinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\interfaces\\services\\getprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\interfaces\\services\\getprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\interfaces\\services\\saveprojectexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\interfaces\\services\\saveprojectexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\models\\buildpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\models\\buildpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\models\\releasepipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\models\\releasepipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\models\\input model\\getprojectin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\models\\input model\\getprojectin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\models\\projectwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\models\\projectwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bhavessi\\.nuget\\packages\\epplus\\7.2.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|c:\\users\\bhavessi\\source\\repos\\devops powershell\\devops powershell\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE819918-D719-4609-B848-C20CE3132BFE}|DevOps Powershell\\DevOps Powershell.csproj|solutionrelative:devops powershell\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\Repository.cs",
+              "RelativeToolTip": "DevOps Powershell\\Models\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T10:40:19.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuildPipeline.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\BuildPipeline.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Models\\BuildPipeline.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\BuildPipeline.cs",
+              "RelativeToolTip": "DevOps Powershell\\Models\\BuildPipeline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T10:18:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReleasePipeline.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\ReleasePipeline.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Models\\ReleasePipeline.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\ReleasePipeline.cs",
+              "RelativeToolTip": "DevOps Powershell\\Models\\ReleasePipeline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:53:22.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveProjectExcelService.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Interfaces\\Services\\SaveProjectExcelService.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Interfaces\\Services\\SaveProjectExcelService.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Interfaces\\Services\\SaveProjectExcelService.cs",
+              "RelativeToolTip": "DevOps Powershell\\Interfaces\\Services\\SaveProjectExcelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:03:30.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "DevOps Powershell\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwG4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:42:00.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveProjectExcelInterface.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Interfaces\\SaveProjectExcelInterface.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Interfaces\\SaveProjectExcelInterface.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Interfaces\\SaveProjectExcelInterface.cs",
+              "RelativeToolTip": "DevOps Powershell\\Interfaces\\SaveProjectExcelInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:01:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DevOps Powershell\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:40:32.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Interfaces\\Services\\GetProjectService.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Interfaces\\Services\\GetProjectService.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Interfaces\\Services\\GetProjectService.cs",
+              "RelativeToolTip": "DevOps Powershell\\Interfaces\\Services\\GetProjectService.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAcwCYBAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:50:55.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProjectInterface.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Interfaces\\GetProjectInterface.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Interfaces\\GetProjectInterface.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Interfaces\\GetProjectInterface.cs",
+              "RelativeToolTip": "DevOps Powershell\\Interfaces\\GetProjectInterface.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wBIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:49:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetProjectIn.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\Input Model\\GetProjectIn.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Models\\Input Model\\GetProjectIn.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\Input Model\\GetProjectIn.cs",
+              "RelativeToolTip": "DevOps Powershell\\Models\\Input Model\\GetProjectIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:05:13.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\User.cs",
+              "RelativeToolTip": "DevOps Powershell\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:45:44.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\ProjectWrapper.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Models\\ProjectWrapper.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\ProjectWrapper.cs",
+              "RelativeToolTip": "DevOps Powershell\\Models\\ProjectWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:16:16.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Program.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Program.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Program.cs",
+              "RelativeToolTip": "DevOps Powershell\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:53:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\Models\\Project.cs",
+              "RelativeToolTip": "DevOps Powershell\\Models\\Project.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:46:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\.nuget\\packages\\epplus\\7.2.2\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\7.2.2\\readme.txt",
+              "ToolTip": "C:\\Users\\bhavessi\\.nuget\\packages\\epplus\\7.2.2\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\7.2.2\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-27T05:07:45.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevOps Powershell.csproj",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\DevOps Powershell.csproj",
+              "RelativeDocumentMoniker": "DevOps Powershell\\DevOps Powershell.csproj",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\DevOps Powershell.csproj",
+              "RelativeToolTip": "DevOps Powershell\\DevOps Powershell.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T16:45:23.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DevOps Powershell\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\bhavessi\\source\\repos\\DevOps Powershell\\DevOps Powershell\\WeatherForecast.cs",
+              "RelativeToolTip": "DevOps Powershell\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:39:38.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
